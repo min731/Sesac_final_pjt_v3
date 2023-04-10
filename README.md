@@ -1,2 +1,3 @@
 # 챗봇 기반의 스마트 도서관 통합 서비스
-새싹 청년취업사관학교 인공지능SW 개발자 양성 프로그램 최종 프로젝트입니다.
+
+![image](https://user-images.githubusercontent.com/115389344/230848046-2267fc45-9c28-46fe-b0bf-24046d27ad7b.png)
