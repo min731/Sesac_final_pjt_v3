@@ -36,4 +36,5 @@
 
 # 참고 자료
 
-- 시연 동영상 : https://youtu.be/Q35C48ziSsQ
+- 시연 동영상 : https://youtu.be/hZ_O2oySuOs
+- 참고 링크(블로그) : https://velog.io/@min0731/%EC%B1%97%EB%B4%87-%EA%B8%B0%EB%B0%98-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EB%8F%84%EC%84%9C%EA%B4%80-%ED%86%B5%ED%95%A9-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B81 
