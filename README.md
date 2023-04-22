@@ -1,7 +1,7 @@
 # 📖 프로젝트명
 
 ### ✔️ 챗봇 기반의 스마트 도서관 통합 서비스
-![image](https://user-images.githubusercontent.com/115389344/230848713-d9cc4670-07dd-482d-a0dc-8dabdcf80c1e.png)
+![image](https://user-images.githubusercontent.com/115389344/233767792-0be3f200-96fe-4fcf-93bd-0061de8cb7c5.png)
 
 # 📃 프로젝트 소개 
 
