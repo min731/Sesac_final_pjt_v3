@@ -36,7 +36,15 @@
 
 # 🖥 시스템 구조
 
-![image](https://user-images.githubusercontent.com/115389344/233107279-6ab12ac7-42cd-4c2e-8f7e-504d179a7b61.png) 
+![image](https://user-images.githubusercontent.com/115389344/233107279-6ab12ac7-42cd-4c2e-8f7e-504d179a7b61.png)
+
+1) 웹 서버(Spring)에서 채팅을 통한 사용자 요청(string형 발화문)
+2) 요청된 string 객체 데이터 서버(Flask)로 전달
+3) 검색, 추천, 문의, 예외 등 총 4개의 클래스로 분류 (Intent Classification)
+4) 검색, 추천 의도 시 데이터베이스에 접근하여 데이터 SELECT
+5) 의도별 답변 정보 취합 후 json 객체에 저장하여 웹 서버로 반환
+6) 답변 메세지 출력 (검색된 도서 대출 가능 시 대여 버튼, 불가능 시 반납 알림 버튼 활성화)
+7) 사용자의 요청 시 마다 초기화, 반복
 
 # 💡 주요 기능
 
