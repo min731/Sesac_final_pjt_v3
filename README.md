@@ -11,29 +11,6 @@
 
 이러한 서비스를 통해 사용자들은 원하는 도서를 도서명, 작가명, 위치명들을 기반으로 검색하고 원하는 장르의 도서들을 추천받을 수 있으며 이용시간, 연체, 반납 등 도서관별 문의 사항에 대한 정보를 하나의 통합된 서비스를 통해 얻을 수 있습니다.
 
-# 🛠 기술 스택
-
-### ▪ 언어
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
-### ▪ 주요 라이브러리
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/konlpy-ECD53F?style=for-the-badge&logo=konlpy&logoColor=white"> <img src="https://img.shields.io/badge/sentence transformers-EB1923?style=for-the-badge&logo=sentencetransformers&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">  <img src="https://img.shields.io/badge/pymysql-4479A1?style=for-the-badge&logo=pymysql&logoColor=white">
-
-### ▪ 프레임워크
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
-
-### ▪ 데이터베이스
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-
-### ▪ 서버
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
-
-### ▪ 개발 툴
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Ecilpse IDE&logoColor=white"> <img src="https://img.shields.io/badge/VS code-2F80ED?style=for-the-badge&logo=VS code&logoColor=white"> <img src="https://img.shields.io/badge/HeidiSQL-76B900?style=for-the-badge&logo=HeidiSQL&logoColor=white">
-
-### ▪ 협업 툴
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Noiton-A5915F?style=for-the-badge&logo=Noiton&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-
 # 🖥 시스템 구조
 
 ![image](https://user-images.githubusercontent.com/115389344/233107279-6ab12ac7-42cd-4c2e-8f7e-504d179a7b61.png)
@@ -83,6 +60,29 @@
   ✔️ 다양한 문의 사항에 대한 답변 기능입니다.<br>
   ✔️ 운영시간, 이용방법, 1인 최대 대출 권수, 대출 기간, 연체, 분실 등에 관한 정보를 얻을 수 있습니다.<br>
   ✔️ 통합된 모든 도서관 혹은 요청한 하나의 도서관별 문의가 가능합니다.
+
+# 🛠 기술 스택
+
+### ▪ 언어
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-FC4C02?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+### ▪ 주요 라이브러리
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/konlpy-ECD53F?style=for-the-badge&logo=konlpy&logoColor=white"> <img src="https://img.shields.io/badge/sentence transformers-EB1923?style=for-the-badge&logo=sentencetransformers&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit learn&logoColor=white">  <img src="https://img.shields.io/badge/pymysql-4479A1?style=for-the-badge&logo=pymysql&logoColor=white">
+
+### ▪ 프레임워크
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
+
+### ▪ 데이터베이스
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+
+### ▪ 서버
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+
+### ▪ 개발 툴
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Ecilpse IDE&logoColor=white"> <img src="https://img.shields.io/badge/VS code-2F80ED?style=for-the-badge&logo=VS code&logoColor=white"> <img src="https://img.shields.io/badge/HeidiSQL-76B900?style=for-the-badge&logo=HeidiSQL&logoColor=white">
+
+### ▪ 협업 툴
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Noiton-A5915F?style=for-the-badge&logo=Noiton&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 # 🔍 참고 자료
 
